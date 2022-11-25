@@ -1,0 +1,12 @@
+body{
+    background-color: cadetblue;
+    color: saddlebrown;
+    font-family: Calibri;
+
+}
+
+section {
+    background-color: crimson;
+    color: cyan;
+    padding: 50px;
+}
